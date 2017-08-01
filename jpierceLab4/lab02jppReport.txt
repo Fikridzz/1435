@@ -1,0 +1,21 @@
+Lab:	02
+Name:	Jordan Pierce
+Class:	COSC 1436
+Date Submitted: Feb 6, 2013
+
+Program Name: lab02jpp.cpp (attached to email)
+Sample Output: lab02jppOutPut.txt (attached to email)
+
+Program Purpose: This program finds all the prime factors of all #'s between 1-1000
+		 it then writes all of the factors to a file that user created in the 
+		 program.
+
+Program Testing: I tested my program on Clst, as well as CodeBlocks MinGW
+		 (attached to email)
+
+Problems: The program didn't cover any new material so the syntax wasn't a big issue,
+	  however the logic took a bit longer than expected espeically with trying to 
+	  make the sample output work out.
+
+Time Spent: 4 Hours with planning
+	
